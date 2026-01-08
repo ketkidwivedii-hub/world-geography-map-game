@@ -1,1 +1,1 @@
-# world-geography-map-game
+# living-atlas
